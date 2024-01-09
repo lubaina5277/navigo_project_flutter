@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349034762461",
+    "project_id": "navigo-e52c4",
+    "storage_bucket": "navigo-e52c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349034762461:android:693c169789904b48d28b34",
+        "android_client_info": {
+          "package_name": "com.jlcompany.navigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuFJMiiiPFcL8zHZiDwwwoIBkLmkRnXkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
